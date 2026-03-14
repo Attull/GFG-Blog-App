@@ -1,0 +1,26 @@
+.user-page {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.user-page h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.user-page p {
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #666;
+}
+
+.user-page h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.blogs-list {
+  display: flex;
+  flex-direction: column;
+}
